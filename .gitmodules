@@ -7,3 +7,6 @@
 [submodule "st"]
 	path = st
 	url = https://git.suckless.org/st
+[submodule "surf"]
+	path = surf
+	url = https://git.suckless.org/surf

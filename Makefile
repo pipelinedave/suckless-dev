@@ -1,6 +1,6 @@
 .PHONY: all dwm dmenu st install
 
-all: dwm dmenu st install
+all: dwm dmenu st surf install
 
 dwm:
 	cd dwm && sudo make clean install

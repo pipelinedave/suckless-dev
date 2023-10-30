@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=DWM
+Comment=Dynamic Window Manager
+Exec=/home/virt/.scripts/kickoff-dwm.sh
+Type=XSession

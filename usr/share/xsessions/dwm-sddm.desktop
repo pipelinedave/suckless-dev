@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=XSession
+Exec=/home/virt/.scripts/kickoff-dwm.sh
+DesktopNames=DWM
+Comment=Dynamic Window Manager

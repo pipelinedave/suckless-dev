@@ -11,6 +11,9 @@ dmenu:
 st:
 	cd st && sudo make clean install
 
+surf:
+	cd surf && sudo make clean install
+
 DM_TYPE := $(shell ps -e | grep -Eo 'gdm|sddm' | uniq)
 
 install:
